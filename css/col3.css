@@ -1,0 +1,51 @@
+.mainbody>.col3 {
+    width: 27%;
+    float: right;
+    height: 300px;
+    overflow: hidden;
+    background-color: white;
+}
+
+.followers-details {
+    padding: 10px;
+}
+#nav-col3-twitter{
+    margin-left: 90px;
+}
+
+.col3-profile {
+    width: 56px;
+    height: 55px;
+    border-radius: 139%;
+    overflow: hidden;
+    border: 2px solid #ccc;
+    margin: 10px;
+}
+
+.col3-profile-image {
+    width: 101%;
+    height: 56px;
+}
+
+.flex-direction{
+    display: flex;
+    flex-direction: row;
+}
+
+.col3-profile-name{
+    display: flex;
+    margin-top: 1rem;
+    height: 22px;
+}
+.col3-follow-button{
+    font-weight: bold;
+    display: inline-block;
+    padding: 5px;
+    border-radius: 92px;
+    padding: righ;
+    padding-right: 18px;
+    padding-left: 19px;
+    border: 1px solid #42A5F5;
+    cursor: pointer;
+}
+

@@ -1,0 +1,20 @@
+.second-section{
+    height: 20%;
+    margin-top: -41rem;
+    width: 23%;
+    background-color: white;
+}
+.section-details{
+    padding: 3px;
+}
+.trends-description{
+    display: flex;
+    align-items: center;
+    margin: 2px;
+}
+.all-details{
+    font-size: 1.1rem;
+    padding: 6px;
+    line-height: 1.7
+}
+

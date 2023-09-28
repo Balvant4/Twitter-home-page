@@ -1,0 +1,38 @@
+.mainbody>.col1 {
+    width: 23%;
+    float: left;
+    height: 300px;
+    background-color: white;
+}
+
+.image-sunset{
+    height: 143px;
+    width: 100%;
+}
+
+.profile-image{
+    height: 75px;
+    margin-left: 13px;
+    border-radius: 50%;
+    margin-top: -32px;
+    border: 3px solid white;
+}
+
+.profile-name{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: -36px;
+    margin-left: 44px;
+}
+.profile-details{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 32px;
+    font-size: 1.1rem;
+}
+
+
+
